@@ -1,1 +1,1 @@
-### Aim of the experiment
+To build automobile alarm application using basic logic gates on a generalized simulator canvas and verify its truth table.
