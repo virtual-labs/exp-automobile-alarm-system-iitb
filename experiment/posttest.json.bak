@@ -1,0 +1,47 @@
+[
+  {
+    "question": "If the switch SW0 is connected to ground and one of the door is left open, the alarm_________.",
+    "qid": 1,
+    "option_a": "Sounds",
+    "option_b": "Does not sound",
+    "option_c": "Burns",
+    "option_d": "None of these",
+    "correct_option": "a"
+  },
+  {
+    "question": "If the switch SW0 is on position ‘a’, and the doors 3 and 4 are opened, the alarm ___________.",
+    "qid": 2,
+    "option_a": "Sounds",
+    "option_b": "Does not sound",
+    "option_c": "Burns",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "To provide extra current to drive the alarm device, a __________ is used in the circuit:",
+    "qid": 3,
+    "option_a": "OR gate",
+    "option_b": "NOR gate",
+    "option_c": "Buffer",
+    "option_d": "Bubbled NAND",
+    "correct_option": "c"
+  },
+  {
+    "question": "Many a times logic symbols attach a small bubble on the input or output side of gate to represent that the input or output is:",
+    "qid": 4,
+    "option_a": "Active-High",
+    "option_b": "Active-Low",
+    "option_c": "Tristate",
+    "option_d": "None of these",
+    "correct_option": "b"
+  },
+  {
+    "question": "When the alarm sounds, _________ current flows through the alarm and the output of the gate to ground.",
+    "qid": 5,
+    "option_a": "Sourcing",
+    "option_b": "Sinking",
+    "option_c": "Maximum",
+    "option_d": "Minimum",
+    "correct_option": "b"
+  }
+]
